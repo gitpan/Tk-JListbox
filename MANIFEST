@@ -1,5 +1,8 @@
 Changes
-JListbox.pm
 Makefile.PL
 MANIFEST
 test.pl
+JListbox.pm
+README
+README.html
+
